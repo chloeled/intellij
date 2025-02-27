@@ -3,7 +3,7 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class SeleniumJunitTest {
+public class RBACTest {
     private WebDriver driver;
 
     @BeforeAll
